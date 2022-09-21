@@ -1,0 +1,20 @@
+{
+  "name": "para-clonar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feelsaron/para-clonar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feelsaron/para-clonar/issues"
+  },
+  "homepage": "https://github.com/feelsaron/para-clonar#readme"
+}
